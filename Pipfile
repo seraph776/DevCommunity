@@ -9,6 +9,7 @@ requests = "*"
 pdfplumber = "*"
 pyttsx3 = "*"
 pynput = "*"
+wordcloud = "*"
 
 [dev-packages]
 
