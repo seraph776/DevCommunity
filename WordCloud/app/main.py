@@ -24,9 +24,12 @@ def get_file(filename):
 
 def clean_file(data):
     data = re.sub(r'[^\w\s]', '', data)
-    stopwords = ('a', 'an', 'and', 'as', 'at', 'but', 'by', 'from', 'he', 'him', 'i', 'is', 'my', 'of', 'or',
-                 'on', 'said', 'that', 'the', 'there', 'this', 'to', 'with')
-    return Counter([word for word in data.split() if word not in stopwords])
+    stopwords = ('a', 'an', 'and', 'as', 'at', 'but',
+                 'by', 'from', 'he', 'him', 'i', 'is',
+                 'my', 'of', 'or', 'on', 'said', 'that',
+                 'the', 'there', 'this', 'to', 'with')
+    return Counter([word for word in data.split()
+                    if word not in stopwords])
 
 
 def generate_wordcloud(data):
