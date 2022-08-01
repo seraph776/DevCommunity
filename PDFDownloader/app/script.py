@@ -30,5 +30,5 @@ def download_pdf_file(url: str) -> bool:
 
 if __name__ == '__main__':
     # URL from which pdfs to be downloaded
-    URL = 'https://raw.githubusercontent.com/seraph776/seraph776/main/assets/Python_Crash_Course.pdf'
+    URL = 'https://raw.githubusercontent.com/seraph776/DevCommunity/main/PDFDownloader/assests/the_raven.pdf'
     download_pdf_file(URL)
