@@ -19,7 +19,7 @@ Records and logs keystrokes using `Pynput`.
 
 If you have any questions or wish to collaborate please contact me
 
-- **Seraph** : [seraph1001100@gmail.com](mailto:seraph776@gmail.com)
+- **Seraph** : [seraph776@gmail.com](mailto:seraph776@gmail.com)
 
 
 ##   License ⚖️
