@@ -1,7 +1,10 @@
+<div align="center">
+
 # PDF Text Extract
 
 <img src="https://user-images.githubusercontent.com/72005563/180669464-ff528304-4295-4fc2-a40a-a8cb78904769.png" width="425"/>
 
+  </div>
 
 
 ## 💡Overview
