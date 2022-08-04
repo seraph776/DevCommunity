@@ -21,7 +21,7 @@ Show your support and give this repo a ⭐
 </div>
 
 ##  ℹ️ Overview
-This repository is a collection of projects associated with tutorials posted on [DEV.to](https://dev.to/seraph776). 
+This repository is a collection of projects associated with tutorials posted on [DEV.to](https://dev.to/seraph776). All projects are open-source, please help yourself.
 
 
 ##  Discussions 
