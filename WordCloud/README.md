@@ -1,5 +1,8 @@
+<div align="center">
+
 # Word Cloud
 
+</div>
 
 ## 💡Overview
 This is my WordCloud project for the Google IT Automation with Python Course. The text I used for this project was The Raven by Edgar Allan Poe.
