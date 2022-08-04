@@ -57,11 +57,4 @@ $ pipenv run python main.py
 
 ## License 
 
-[MIT](https://github.com/seraph776/QuickStart/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
-
-
-<div align="right">
-
-[[↑] Back to top](#home)
-
-</div>  
+[MIT](https://github.com/seraph776/DevCommunity/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
