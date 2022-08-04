@@ -14,7 +14,7 @@
 
 ### Projects
   
-🪳 [Report Bugz](https://github.com/seraph776/DevCommunity/issues/new) · 📫 [Contact me](mailto:seraph@gmail.com) · ☕[Buy me Coffee](https://github.com/seraph776/CrackingtheCodingInterview-PythonSolutions)
+🪳 [Report Bugz](https://github.com/seraph776/DevCommunity/issues/new) · 📫 [Contact me](mailto:seraph@gmail.com) 
  
 Show your support and give this repo a ⭐ 
   
