@@ -20,10 +20,23 @@ Show your support and give this repo a ⭐
   
 </div>
 
-
+## 💡 Overview
 This repository is a collection of projects associated with tutorials I've posted on [DEV.to](https://dev.to/seraph776). 
+
+
+## 📫 Discussions 
+
+Have any Questions? Visit [Discussions](https://github.com/seraph776/QuickStart/discussions) which is a space for our community to have conversations, ask questions and post answers without opening issues. Please read our [Code of Conduct](https://github.com/seraph776/QuickStart/blob/main/CODE-OF-CONDUCT.md) which defines the  standards for engaging with the community!
+
+
 
 ## 📫 Contact
 If you have any questions or wish to collaborate please contact me
 
  - Seraph : seraph776@seraph776@gmail.com
+
+
+
+## ⚖️ License 
+
+[MIT](https://github.com/seraph776/QuickStart/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
