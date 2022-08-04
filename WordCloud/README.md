@@ -1,28 +1,8 @@
-
-<div id="home" align="center">
-
 # Word Cloud
-
-![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&labelColor=black&label=Built%20with&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/WordCloud?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/seraph776/WordCloud?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/seraph776/WordCloud?color=blue&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/WordCloud?color=yellow&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/seraph776/WordCloud?style=for-the-badge)
-
-
-🪳 [Report Bugz](https://github.com/seraph776/README_Template/issues/new) · 📫 [Contact me](mailto:seraph776@gmail.com) 
-  
-Show your support and give this repo a ⭐ 
-  
-</div>
-
 
 
 ## 💡Overview
 This is my WordCloud project for the Google IT Automation with Python Course. The text I used for this project was The Raven by Edgar Allan Poe.
-
-
 
 
 ## Screenshots
