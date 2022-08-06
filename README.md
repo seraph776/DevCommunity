@@ -14,7 +14,7 @@
 
 ### Projects
   
-🪳 [Report Bugz](https://github.com/seraph776/DevCommunity/issues/new) · 📫 [Contact me](mailto:seraph@gmail.com) 
+🪳 [Report Bugz](https://github.com/seraph776/DevCommunity/issues/new) · 📫 [Contact me](mailto:seraph@gmail.com) · ☕[Buy me Coffee](https://www.buymeacoffee.com/seraph776) 
  
 Show your support and give this repo a ⭐ 
   
