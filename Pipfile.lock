@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a0de929b65144adb5376f63bd3697c8c8c7f260bf1f37bb93ea08683faed5a42"
+            "sha256": "f9237666bcd99e85f23001d2b50833d9717cb47b3743ceb1331fae4a47d8803a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -134,7 +134,7 @@
                 "sha256:f7a6de3e98771e183645181b3627e2563dcde3ce94a9e42a3f427d2255190327",
                 "sha256:f8c0a6e9e1dd3eb0414ba320f85da6b0dcbd543126e30fcc546e7372a7fbf3b9"
             ],
-            "markers": "python_version >= '3.6'",
+            "index": "pypi",
             "version": "==37.0.4"
         },
         "cycler": {
@@ -393,11 +393,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:488c2a3e581e39322f55cdb09e74dfe91402208383cc073224ed5d880e3f4b1b",
-                "sha256:ad40bf56bad7ee9c8adb1de6a4a160a8f2c1b442369ad817584106fb5bde64eb"
+                "sha256:6cf18ca7d0f77e1306d48fcd0a57390616ec6545796b5eb325a20943a5501d18",
+                "sha256:e6011f1cc9a9a6fb6dcc7e43e0af5d547569c76290a7e387c62dd6631b745560"
             ],
             "index": "pypi",
-            "version": "==2.8.1"
+            "version": "==2.9.0"
         },
         "pypiwin32": {
             "hashes": [
@@ -468,10 +468,10 @@
         },
         "wand": {
             "hashes": [
-                "sha256:716abd099350a88a2dfd07d3e3656d25e98936b16d8101b75d947e8ad57eb072",
-                "sha256:7dd08b71a312314f438936d58f583f6d4a5b8dfd927e6852cd2035e785d5d3a6"
+                "sha256:40274e8829a8db53fdbe328f58057a5ab7e2ebae07c77b89f15e3807698bb5bc",
+                "sha256:4deb6dfebc6fd8d29a3f20d8664910081622aa02913777ca08a23bf5d25bbc0f"
             ],
-            "version": "==0.6.8"
+            "version": "==0.6.9"
         },
         "wordcloud": {
             "hashes": [

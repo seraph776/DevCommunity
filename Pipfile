@@ -10,6 +10,7 @@ pdfplumber = "*"
 pyttsx3 = "*"
 pynput = "*"
 wordcloud = "*"
+cryptography = "*"
 
 [dev-packages]
 
