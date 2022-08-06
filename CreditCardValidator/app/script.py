@@ -24,7 +24,7 @@ def validate_credit_card(card_number: str) -> bool:
 
     # 5. Subtract 9 at even indices if digit is over 9
     # (or you can add the digits)
-    card_number = [num - 9 if idx % 2 == 0 and num >= 9
+    card_number = [num - 9 if idx % 2 == 0 and num > 9
                    else num for idx, num in enumerate(card_number)]
 
     # 6. Add the checkDigit back to the list:
