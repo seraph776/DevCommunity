@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-# My Dev.to
+# Dev.to
 
 ![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&labelColor=black&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/DevCommunity?style=for-the-badge&labelColor=black)
@@ -25,7 +25,12 @@ Show your support and give this repo a ⭐
 </div>
 
 ##  ℹ️ Overview
-This repository stores all of my projects associated with tutorials I've written on [DEV.to](https://dev.to/seraph776). All projects are open-source, please help yourself. 
+This repository stores all of my projects associated with tutorials I've written on [DEV.to](https://dev.to/seraph776). All projects are open-source, if you find something you like, please use it,  and leave a star.
+
+
+## Contents
+
+
 
 
 ##  Discussions 
