@@ -12,7 +12,7 @@
  <img src="https://user-images.githubusercontent.com/72005563/182481463-49c741f7-462a-4d6e-ab49-dd18c949d256.png" width=150>
 
   
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=seraph776.DevCommunity&color=blue&labelColor=black&logo=github&style=for-the-badge)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=seraph776.DevCommunity&color=grey&labelColor=black&logo=github&style=for-the-badge)
 
   
 
@@ -20,8 +20,6 @@
  ### Python projects
   
   
-
-[![Contribute](https://img.shields.io/static/v1?label=&message=Contribute&color=black&logo=github&style=for-the-badge)](#how-to-contribute)
 [![Report Bugz](https://img.shields.io/static/v1?label=&message=Report%20Issues&color=black&logo=github&style=for-the-badge)](https://github.com/seraph776/DevCommunity/issues/new)
 [![Gmail](https://img.shields.io/static/v1?label=&message=Contact%20me&color=black&logo=gmail&style=for-the-badge)](mailto:seraph776@gmail.com)
 ![Buy me a coffee](https://img.shields.io/static/v1?label=&message=Buy%20me%20a%20coffee&color=black&logo=buymeacoffee&style=for-the-badge)
