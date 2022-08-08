@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-# Dev.to Python Projects
+# My Dev.to
 
 ![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&labelColor=black&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/DevCommunity?style=for-the-badge&labelColor=black)
@@ -13,7 +13,7 @@
  <img src="https://user-images.githubusercontent.com/72005563/182481463-49c741f7-462a-4d6e-ab49-dd18c949d256.png" width=150>
 
 
-### A community of software developers
+### Python projects
 
 [![Contribute](https://img.shields.io/static/v1?label=&message=Contribute&color=black&logo=github&style=for-the-badge)](#how-to-contribute)
 [![Report Bugz](https://img.shields.io/static/v1?label=&message=Report%20Issues&color=black&logo=github&style=for-the-badge)](https://github.com/seraph776/DevCommunity/issues/new)
