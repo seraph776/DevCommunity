@@ -8,12 +8,18 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/seraph776/DevCommunity?color=blue&style=for-the-badge&labelColor=black)
 ![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/DevCommunity?color=yellow&style=for-the-badge&labelColor=black)
 ![GitHub](https://img.shields.io/github/license/seraph776/DevCommunity?style=for-the-badge&labelColor=black)
-  
- 
+   
  <img src="https://user-images.githubusercontent.com/72005563/182481463-49c741f7-462a-4d6e-ab49-dd18c949d256.png" width=150>
 
+  
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=seraph776.DevCommunity&color=blue&labelColor=black&logo=github&style=for-the-badge)
 
-### Python projects
+  
+
+  
+ ### Python projects
+  
+  
 
 [![Contribute](https://img.shields.io/static/v1?label=&message=Contribute&color=black&logo=github&style=for-the-badge)](#how-to-contribute)
 [![Report Bugz](https://img.shields.io/static/v1?label=&message=Report%20Issues&color=black&logo=github&style=for-the-badge)](https://github.com/seraph776/DevCommunity/issues/new)
