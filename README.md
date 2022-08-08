@@ -46,4 +46,4 @@ If you have any questions or wish to collaborate please contact me
 
 ##  License 
 
-[MIT](https://github.com/seraph776/QuickStart/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
+[MIT](https://github.com/seraph776/DevCommunity/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
