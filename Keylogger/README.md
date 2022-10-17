@@ -1,7 +1,6 @@
 <div align="center">
 
-# PDF Text Extract
-
+#Key Logger
 <img src="https://user-images.githubusercontent.com/72005563/180669311-c6d01ca3-c94d-498f-a470-50242fca2acd.png" width="700"/>
 
   </div>
@@ -9,7 +8,6 @@
 
 
 ## 💡Overview
-This is my WordCloud project for the Google IT Automation with Python Course. The text I used for this project was The Raven by Edgar Allan Poe.
 
 
 
